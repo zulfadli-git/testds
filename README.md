@@ -1,3 +1,3 @@
 # testds
-Datas cience test repository.
+Data science test repository.
 Enjoy your day!
